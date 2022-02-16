@@ -1,7 +1,7 @@
 ### Homework20
 
 ## mapper.py
-#1/usr/bin/env python
+/usr/bin/env python
 import sys
 import re
 #initialize lists
