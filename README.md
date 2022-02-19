@@ -7,8 +7,11 @@ import sys
 import re
 
 puncs = []
+
 words = []
+
 flat_list_p = []
+
 flat_list_w = []
 
 for line in sys.stdin:
