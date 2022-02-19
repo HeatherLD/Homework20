@@ -16,3 +16,7 @@ Step 2:
 cat ../cats.txt|Python3 ./mapper.py| sort|Python3 ./reducer.py
 
 ![map_reduce2](https://user-images.githubusercontent.com/91164907/154785486-d40b6e89-a411-4495-b76d-2ec34fb92622.jpg)
+
+
+### Connections to Natural Language Processing
+I think performing this kind of programming helps us imagine how libraries like NLTK and SpaCy work "under the hood" -- it definitely helps us appreciate their abilities!
