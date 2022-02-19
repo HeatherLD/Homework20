@@ -1,15 +1,16 @@
 ### Homework20
 
 ## mapper.py
+
 /usr/bin/env python
 import sys
 import re
-#initialize lists
+
 puncs = []
 words = []
 flat_list_p = []
 flat_list_w = []
-#stdin = standard input
+
 for line in sys.stdin:
 
     #strip white spaces at beginning and end of line
